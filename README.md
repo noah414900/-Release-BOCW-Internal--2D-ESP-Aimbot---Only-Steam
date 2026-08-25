@@ -3,7 +3,7 @@ this is my internal for BOCW that i made in a few days i made it from scratch so
 
 ## ⚠️ IMPORTANT: Project Status & Disclaimer
 
-### 🛑 Status: ARCHIVED & UNSUPPORTED
+### 🛑 Status: Released Not Updating anymore if patched 
 This repository is a **Legacy Release**. 
 - **No further updates will be provided.**
 - **Issues and Pull Requests will not be monitored.**
