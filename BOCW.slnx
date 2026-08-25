@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="CODInternal/CODInternal.vcxproj" Id="3280a647-bcd0-43c3-80e4-62e8d7c0d69d" />
-</Solution>
